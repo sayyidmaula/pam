@@ -2,6 +2,6 @@
 
 ## Identitas
 
-Nama :
-NIM :
-Kelas :
+Nama : Sayyid Maula Rafsanjani
+NIM : 11237050126
+Kelas : IF-A
